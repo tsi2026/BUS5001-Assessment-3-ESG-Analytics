@@ -1,0 +1,4 @@
+id,issue_category,urgency,sentiment,followup_required,recommended_team,escalation_reason,data_sensitivity_risk,brief_summary
+E01,WATER_LEAK,HIGH,NEGATIVE,Y,Facilities,Keyword-based high classification; review for safety and context.,LOW,There is a water leak in Building C that has been running all morning.
+E02,WASTE_RECYCLING,MEDIUM,NEGATIVE,Y,Sustainability,Keyword-based medium classification; review for safety and context.,LOW,The recycling bins are contaminated again and nobody is checking them.
+E03,ACCESSIBILITY,HIGH,NEGATIVE,Y,Accessibility Services,Keyword-based high classification; review for safety and context.,LOW,The accessible entrance near the main building has been blocked for two days.

@@ -1,0 +1,4 @@
+id,issue_category,urgency,sentiment,followup_required,recommended_team,escalation_reason,data_sensitivity_risk,brief_summary
+E01,WATER_LEAK,MEDIUM,NEUTRAL,Y,Facilities,Active water leak running all morning in Building C requires maintenance intervention.,LOW,Water leak reported in Building C running all morning.
+E02,WASTE_RECYCLING,LOW,NEGATIVE,Y,Sustainability,No urgent escalation indicated. The message reports ongoing contamination of recycling bins and a lack of monitoring.,LOW,Recycling bins are repeatedly contaminated and not being checked.
+E03,ACCESSIBILITY,HIGH,NEGATIVE,Y,Accessibility Services,"The accessible entrance near the main building has been blocked for two days, presenting an ongoing accessibility barrier blocking necessary access.",LOW,The accessible entrance near the main building has been blocked for two days.

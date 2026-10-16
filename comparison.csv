@@ -1,0 +1,4 @@
+case,human_reference_category,rule_category,llm_category,human_reference_urgency,rule_urgency,llm_urgency,rule_matches_reference,llm_matches_reference
+E01,WATER_LEAK,WATER_LEAK,WATER_LEAK,HIGH,HIGH,MEDIUM,True,False
+E02,WASTE_RECYCLING,WASTE_RECYCLING,WASTE_RECYCLING,MEDIUM,MEDIUM,LOW,True,False
+E03,ACCESSIBILITY,ACCESSIBILITY,ACCESSIBILITY,HIGH,HIGH,HIGH,True,True

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "E01",
+    "issue_category": "WATER_LEAK",
+    "urgency": "HIGH",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Facilities",
+    "escalation_reason": "Keyword-based high classification; review for safety and context.",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "There is a water leak in Building C that has been running all morning."
+  },
+  {
+    "id": "E02",
+    "issue_category": "WASTE_RECYCLING",
+    "urgency": "MEDIUM",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Sustainability",
+    "escalation_reason": "Keyword-based medium classification; review for safety and context.",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "The recycling bins are contaminated again and nobody is checking them."
+  },
+  {
+    "id": "E03",
+    "issue_category": "ACCESSIBILITY",
+    "urgency": "HIGH",
+    "sentiment": "NEGATIVE",
+    "followup_required": "Y",
+    "recommended_team": "Accessibility Services",
+    "escalation_reason": "Keyword-based high classification; review for safety and context.",
+    "data_sensitivity_risk": "LOW",
+    "brief_summary": "The accessible entrance near the main building has been blocked for two days."
+  }
+]
